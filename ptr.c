@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <string.h>
 
 #if 0
 int main() {
